@@ -27,7 +27,7 @@ Requisitos:
 # ================================
 param(
     [Parameter(Mandatory)]
-    [string]$RutaCSV = "C:\Users\diego\Scripts\Usuarios_Grupo5.csv"
+    [string]$RutaCSV = "C:\Users\ASR205\Scripts\Usuarios_Grupo5.csv"
 )
 
 # ================================
@@ -42,7 +42,7 @@ Import-Module ActiveDirectory
 # ================================
 # CONFIGURACIÓN DE LOGS
 # ================================
-$LogFolder = "C:\Users\diego\Scripts\Logs"
+$LogFolder = "C:\Users\ASR205\Scripts\Logs"
 if (!(Test-Path $LogFolder)) {
     New-Item -ItemType Directory -Path $LogFolder
 }
