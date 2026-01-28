@@ -7,9 +7,13 @@
 |------------------------|-----------------------|-----------|--------|
 | Windows Server 2025    | Windows Admin Center  | HTTPS     | 6600   |
 
-### ***WAC SERVIDOR***
+### **WAC SERVIDOR**
 
-![imagen1](/Capturas/wac_servidor.png)
+![imagen1](Capturas/wac_servidor.png)
+
+### **WAC ACCCESO**
+
+![imagen1](Capturas/wac_acceso.png)
 
 ## ***COCKPIT***
 
