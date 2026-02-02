@@ -93,4 +93,4 @@ El acceso remoto gráfico se realiza únicamente mediante un usuario dedicado, c
 
 4.	Acceso denegado a otro usuario. Captura del intento fallido con un usuario distinto de remoto_rdp.
 
-
+No he podido conseguir que salga el error
