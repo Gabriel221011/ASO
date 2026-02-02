@@ -32,13 +32,36 @@ La conexión SSH se realiza exclusivamente mediante clave pública, utilizando u
 
 1.	Usuario creado
 
-![imagen1](Captura/usuario_creado.png)
+![imagen1](Capturas/usuario_creado.png)
    
 3.	Servicio SSH activo
+
+![imagen1](Capturas/ssh_activo.png)
+
 4.	Claves generadas. Captura donde se vean las claves generadas en el directorio final con los permisos adecuados.
+
+![imagen1](Capturas/claves_generadas.png)
+
+Publica
+
+![imagen1](Capturas/clave_publica.png)
+
+Privada
+
+![imagen1](Capturas/clave_privada.png)
+
 5.	Acceso por contraseña deshabilitado.
-6.	Acceso SSH desde PuTTY con remoto_ssh.
-7.	Acceso denegado a otro usuario. Captura del intento fallido con un usuario distinto de remoto_ssh.
+
+![imagen1](Capturas/acceso_contraseña_deshabilitado.png)
+
+7.	Acceso SSH desde PuTTY con remoto_ssh.
+
+![imagen1](Capturas/acceso_a_ubuntu_desde_putty_con_remoto.png)
+
+8.	Acceso denegado a otro usuario. Captura del intento fallido con un usuario distinto de remoto_ssh.
+
+![imagen1](Capturas/acceso_denegad.png)
+
 
 ## Parte 2 – Administración remota gráfica (RDP)
 
