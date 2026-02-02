@@ -80,8 +80,17 @@ El acceso remoto gráfico se realiza únicamente mediante un usuario dedicado, c
 ### Evidencias
 
 1.	Usuario remoto_rdp creado y añadido al grupo. Captura donde se vea el usuario dentro del grupo Usuarios de Escritorio remoto.
+
+![imagen1](Capturas/remoto_ssh_creado_y_añadido_a_grupo.png)
+
 2.	Autenticación de nivel de red para la conexión habilitada.
+
+![imagen1](Capturas/NAL_habilitada.png)
+
 3.	Sesión RDP activa donde se vea escritorio del servidor y usuario remoto_rdp conectado.
+
+![imagen1](Capturas/conexion_rdp_remoto.png)
+
 4.	Acceso denegado a otro usuario. Captura del intento fallido con un usuario distinto de remoto_rdp.
 
 
